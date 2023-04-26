@@ -1,6 +1,6 @@
 ## 👋 Hello, I’m Tyler.
 
-💻 I am a UI Developer for [Udemy Business](https://business.udemy.com/), a global leader in employee learning and development. 
+💻 I am a UI Developer for [Udemy](https://business.udemy.com/), a global leader in employee learning and development. 
 
 💙 I love designing & developing aestetic and functional websites and user interfaces.
 
